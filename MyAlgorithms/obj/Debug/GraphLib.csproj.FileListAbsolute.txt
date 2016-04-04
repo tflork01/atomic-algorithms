@@ -1,5 +1,0 @@
-E:\Projects\Code Snippets\Coursera-Algos2\Graph.Lib\bin\Debug\Graph.Lib.dll
-E:\Projects\Code Snippets\Coursera-Algos2\Graph.Lib\bin\Debug\Graph.Lib.pdb
-E:\Projects\Code Snippets\Coursera-Algos2\Graph.Lib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
-E:\Projects\Code Snippets\Coursera-Algos2\Graph.Lib\obj\Debug\Graph.Lib.dll
-E:\Projects\Code Snippets\Coursera-Algos2\Graph.Lib\obj\Debug\Graph.Lib.pdb

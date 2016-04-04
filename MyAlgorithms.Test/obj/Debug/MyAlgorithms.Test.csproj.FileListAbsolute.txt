@@ -1,7 +1,0 @@
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\bin\Debug\MyAlgorithms.Test.dll
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\bin\Debug\MyAlgorithms.Test.pdb
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\bin\Debug\Graph.Lib.dll
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\bin\Debug\Graph.Lib.pdb
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\obj\Debug\MyAlgorithms.Test.csprojResolveAssemblyReference.cache
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\obj\Debug\MyAlgorithms.Test.dll
-E:\Projects\Code Snippets\Coursera-Algos2\MyAlgorithms.Test\obj\Debug\MyAlgorithms.Test.pdb
