@@ -60,7 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyAlgorithms\MyAlgorithms.csproj">
-      <Project>{37158086-F29A-4A74-B8BE-274F6FF154F6}</Project>
+      <Project>{37158086-f29a-4a74-b8be-274f6ff154f6}</Project>
       <Name>MyAlgorithms</Name>
     </ProjectReference>
   </ItemGroup>

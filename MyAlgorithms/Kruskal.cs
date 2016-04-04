@@ -83,7 +83,7 @@ namespace MyAlgorithms
 
         private static IEnumerable<Tuple<int, int>> TraverseIncreasingHammingDistance(int bitsPerNode, List<BitArray> nodes, int maxSpacing)
         {
-            var dict = new Dictionary<BitArray, List<int>>(new BitArrayEqualityComparer());
+            var dict = new Dictionary<BitArray, List<int>>(new BitArrayEqualityComparer()); //needs its own equalitycomparer because default does equality by reference, which wouldn't work for lookups here
             for (int i = 0; i < nodes.Count; i+=1)
             {
                 if (!dict.ContainsKey(nodes[i]))
@@ -96,16 +96,20 @@ namespace MyAlgorithms
                 }
             }
 
+            //big idea: we know that 
+            //a xor b = c 
+            // and 
+            //a xor c = b
             for (int i = 1; i < maxSpacing; i += 1)
             {
-                var hammingXorPermutations = HammingDistance.HammingXorPermutations(bitsPerNode, i);
+                var hammingXorPermutations = HammingDistance.HammingXorPermutations(bitsPerNode, i); //generate all the possible hamming distance bitarrays that we would get if we xor'ed with a string that differed by i bits
                 for (int j = 0; j < nodes.Count; j+= 1)
                 {
                     var node = nodes[j];
                     foreach (var hammingXorPermutation in hammingXorPermutations)
                     {
-                        var xorResult = new BitArray(node);
-                        xorResult.Xor(hammingXorPermutation);
+                        var xorResult = new BitArray(node); 
+                        xorResult.Xor(hammingXorPermutation); //xor the node with the hamming distance bitarray... and then check if the resulting string is in the set of nodes 
                         if (dict.ContainsKey(xorResult))
                         {
                             foreach (var idx in dict[xorResult])
