@@ -1,0 +1,5 @@
+E:\Projects\Code Snippets\Coursera-Algos2\GraphLib\bin\Release\Graph.Lib.dll
+E:\Projects\Code Snippets\Coursera-Algos2\GraphLib\bin\Release\Graph.Lib.pdb
+E:\Projects\Code Snippets\Coursera-Algos2\GraphLib\obj\Release\MyAlgorithms.csprojResolveAssemblyReference.cache
+E:\Projects\Code Snippets\Coursera-Algos2\GraphLib\obj\Release\Graph.Lib.dll
+E:\Projects\Code Snippets\Coursera-Algos2\GraphLib\obj\Release\Graph.Lib.pdb

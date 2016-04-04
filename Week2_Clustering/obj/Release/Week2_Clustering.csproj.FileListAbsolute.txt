@@ -1,0 +1,11 @@
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\Week2_Clustering.exe.config
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\clustering2.txt
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\clustering1.txt
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\clustering_big.txt
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\Week2_Clustering.exe
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\Week2_Clustering.pdb
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\Graph.Lib.dll
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\bin\Release\Graph.Lib.pdb
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\obj\Release\Week2_Clustering.csprojResolveAssemblyReference.cache
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\obj\Release\Week2_Clustering.exe
+E:\Projects\Code Snippets\Coursera-Algos2\Week2_Clustering\obj\Release\Week2_Clustering.pdb
