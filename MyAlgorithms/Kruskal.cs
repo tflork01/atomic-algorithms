@@ -82,10 +82,7 @@ namespace MyAlgorithms
             var dict = new Dictionary<BitArray, int>(new BitArrayEqualityComparer()); //needs its own equalitycomparer because default does equality by reference, which wouldn't work for lookups here
             for (int i = 0; i < nodes.Count; i+=1)
             {
-                if (!dict.ContainsKey(nodes[i]))
-                {
-                    dict.Add(nodes[i], i);
-                }
+                dict.Add(nodes[i], i);
             }
 
             //main idea: we know that 
