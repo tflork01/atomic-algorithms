@@ -43,6 +43,8 @@
     <Compile Include="Graph.cs" />
     <Compile Include="Kruskal.cs" />
     <Compile Include="HammingDistance.cs" />
+    <Compile Include="MaxWeightIndependentSet.cs" />
+    <Compile Include="PathGraph.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnionFind.cs" />
   </ItemGroup>

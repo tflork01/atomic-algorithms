@@ -55,6 +55,7 @@
     <Compile Include="UnionFindTest.cs" />
     <Compile Include="KruskalClusteringTest.cs" />
     <Compile Include="HammingXorStringsTest.cs" />
+    <Compile Include="MaxWeightIndependentSetTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyAlgorithms\MyAlgorithms.csproj">

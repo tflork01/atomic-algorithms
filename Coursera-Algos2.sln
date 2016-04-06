@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAlgorithms.Test", "MyAlgo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAlgorithms", "MyAlgorithms\MyAlgorithms.csproj", "{37158086-F29A-4A74-B8BE-274F6FF154F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3_DynamicProgramming", "Week3_DynamicProgramming\Week3_DynamicProgramming.csproj", "{C5CBFB35-8600-4658-8C8B-A43C8E2A5276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{37158086-F29A-4A74-B8BE-274F6FF154F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37158086-F29A-4A74-B8BE-274F6FF154F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37158086-F29A-4A74-B8BE-274F6FF154F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CBFB35-8600-4658-8C8B-A43C8E2A5276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CBFB35-8600-4658-8C8B-A43C8E2A5276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CBFB35-8600-4658-8C8B-A43C8E2A5276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CBFB35-8600-4658-8C8B-A43C8E2A5276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
