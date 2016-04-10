@@ -50,8 +50,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="KnapsackTest.cs" />
     <Compile Include="KruskalMstTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SequenceAlignmentTest.cs" />
     <Compile Include="UnionFindTest.cs" />
     <Compile Include="KruskalClusteringTest.cs" />
     <Compile Include="HammingXorStringsTest.cs" />
